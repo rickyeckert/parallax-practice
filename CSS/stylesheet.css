@@ -1,2 +1,10 @@
 /* font-family: 'Lobster', cursive;
 font-family: 'Open Sans', sans-serif; */
+
+.short {height: 150px;}
+
+.tall {height: 400px;}
+
+.super-tall {height: 800px;}
+
+body {background-color: #000000;}
