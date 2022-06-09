@@ -8,3 +8,33 @@ font-family: 'Open Sans', sans-serif; */
 .super-tall {height: 800px;}
 
 body {background-color: #000000;}
+
+.parallax {
+    /* Set a specific height */
+    min-height: 600px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-1 {
+    /* The image used */
+    background-image: url(/IMG/above-earth.jpg);
+  }
+
+  .parallax-2 {
+    /* The image used */
+    background-image: url(/IMG/astro-drift.jpg);
+  }
+
+  .parallax-3 {
+    /* The image used */
+    background-image: url(/IMG/nebula-burst.jpg);
+  }
+
+  .parallax-4 {
+    /* The image used */
+    background-image: url(/IMG/nebula-tower.jpg);
+  }
